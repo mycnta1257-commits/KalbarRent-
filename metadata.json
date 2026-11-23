@@ -1,0 +1,8 @@
+{
+  "name": "KalbarRent",
+  "description": "Satu Aplikasi, Semua Pakaian Khas Kalimantan Barat. Platform penyewaan pakaian adat Dayak, Melayu, Mandarin, Batik, Kebaya, Wedding, dan Jas dari berbagai UMKM Kalimantan Barat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
